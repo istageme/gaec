@@ -35,17 +35,18 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/21bd9175b362c45e7539095dbf1324e7-128x133.png",
+    "favicon": "@PROJECT_PATH@/assets/images/2018-06-12-10.50.09-128x125.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "GAEC",
+        "title": "全球资产交易链-GAEC",
         "meta_descr": "GAEC是基于区块链的去中心化全球资产交易与管理平台。（在GAEC生态中，去中心化的区块链网络直接连接全球资产投资者（机构或个人）、拥有者、运营者，智能合约建立交易关系，全网共识机制确认权益，分布式数据库沉淀数字资产与运营数据，社区参与者共同构建基于信任、激励、无佣金的全球资产管理生态。",
         "header_custom": "",
         "footer_custom": "",
